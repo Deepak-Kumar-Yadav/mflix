@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mflix/static/css/main.2481781c.chunk.css",
-    "main.js": "/mflix/static/js/main.c3140037.chunk.js",
-    "main.js.map": "/mflix/static/js/main.c3140037.chunk.js.map",
+    "main.js": "/mflix/static/js/main.3c44dbeb.chunk.js",
+    "main.js.map": "/mflix/static/js/main.3c44dbeb.chunk.js.map",
     "runtime-main.js": "/mflix/static/js/runtime-main.65fb26ae.js",
     "runtime-main.js.map": "/mflix/static/js/runtime-main.65fb26ae.js.map",
     "static/css/2.2894c9e2.chunk.css": "/mflix/static/css/2.2894c9e2.chunk.css",
-    "static/js/2.3e858bd7.chunk.js": "/mflix/static/js/2.3e858bd7.chunk.js",
-    "static/js/2.3e858bd7.chunk.js.map": "/mflix/static/js/2.3e858bd7.chunk.js.map",
+    "static/js/2.27538826.chunk.js": "/mflix/static/js/2.27538826.chunk.js",
+    "static/js/2.27538826.chunk.js.map": "/mflix/static/js/2.27538826.chunk.js.map",
     "index.html": "/mflix/index.html",
     "static/css/2.2894c9e2.chunk.css.map": "/mflix/static/css/2.2894c9e2.chunk.css.map",
     "static/css/main.2481781c.chunk.css.map": "/mflix/static/css/main.2481781c.chunk.css.map",
-    "static/js/2.3e858bd7.chunk.js.LICENSE.txt": "/mflix/static/js/2.3e858bd7.chunk.js.LICENSE.txt",
+    "static/js/2.27538826.chunk.js.LICENSE.txt": "/mflix/static/js/2.27538826.chunk.js.LICENSE.txt",
     "static/media/boxicons.min.css": "/mflix/static/media/boxicons.cbd149c5.ttf",
     "static/media/footer-bg.67e95f05.jpg": "/mflix/static/media/footer-bg.67e95f05.jpg",
     "static/media/tmovie.67797e94.png": "/mflix/static/media/tmovie.67797e94.png"
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.65fb26ae.js",
     "static/css/2.2894c9e2.chunk.css",
-    "static/js/2.3e858bd7.chunk.js",
+    "static/js/2.27538826.chunk.js",
     "static/css/main.2481781c.chunk.css",
-    "static/js/main.c3140037.chunk.js"
+    "static/js/main.3c44dbeb.chunk.js"
   ]
 }
